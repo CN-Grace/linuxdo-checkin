@@ -5,6 +5,11 @@
 这个项目用于自动登录 [LinuxDo](https://linux.do/) 网站并随机读取几个帖子。它使用 Python 和 Playwright
 自动化库模拟浏览器登录并浏览帖子，以达到自动签到的功能。
 
+## TODO
+
+- [ ] Telegram通知
+- [ ] CloudFlare验证
+
 ## 功能
 
 - 自动登录`LinuxDo`。
